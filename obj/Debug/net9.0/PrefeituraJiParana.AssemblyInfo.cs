@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrefeituraJiParana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+453483dfa61035cc27a49cce40d93cd29a01e0f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7536601f01a13066192c8674546842e0d82a60ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrefeituraJiParana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrefeituraJiParana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
