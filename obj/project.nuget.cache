@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "u8oHe/3voUc=",
+  "dgSpecHash": "2D4XUihCTTc=",
   "success": true,
   "projectFilePath": "C:\\Users\\ander\\Documents\\PrefeituraJiParana\\PrefeituraJiParana\\PrefeituraJiParana.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\bootstrap\\5.3.8\\bootstrap.5.3.8.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\dinktopdf\\1.0.8\\dinktopdf.1.0.8.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
